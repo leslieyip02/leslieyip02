@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leslieyip02
+- 👀 I’m interested in learning!
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: leslieyip02@gmail.com
