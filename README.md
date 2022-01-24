@@ -1,3 +1,6 @@
 I'm Leslie Yip, and I'm currently learning to code.
+I like games and challenges. :-)
 
-Right now, I'm trying to complete the freeCodeCamp courses!
+## Current Agenda:
+- Finish freeCodeCamp 
+- Finish GD50 on edX
