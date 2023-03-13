@@ -9,9 +9,9 @@ _I spend too much time in front of a computer..._
 [![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Leslieyip02)
 [![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://github.com/leslieyip02/FCC)
 
-Most of my projects are web-development related, with a focus on front-end.
+I'm an aspiring software engineer! Most of my projects are web-development related, with a focus on front-end. I enjoy making games, and I would like to learn more about computer graphics.
 
-I enjoy making games, and I would like to learn more about computer graphics.
+I am currently studying under the National University of Singapore (NUS) iBLOCs scheme, and will be pursuing a Bachelor's Degree in Computer Science at NUS from August 2023.
 
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://codepen.io/LeslieYip/full/ZEXXYjz)
 [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://codepen.io/LeslieYip/pen/vYeZPqm)
