@@ -4,6 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leslieyip02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-yip-1ab993267/)
 
-I'm an aspiring software engineer! I'm currently an undergrad at NUS, studying Computer Science.
+I'm an aspiring software engineer! I'm currently an undergrad at NUS, studying Computer Science. For the moment, I'm interested in AI and computer graphics.
 
-I love problem-solving and creating silly projects!
+I love problem-solving and creating silly projects! You can look at some of my projects [here](https://leslieyip02.github.io/)!
